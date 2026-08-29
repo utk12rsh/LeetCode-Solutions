@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Binary Search
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -198,4 +201,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
