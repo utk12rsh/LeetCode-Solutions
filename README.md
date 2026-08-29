@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
