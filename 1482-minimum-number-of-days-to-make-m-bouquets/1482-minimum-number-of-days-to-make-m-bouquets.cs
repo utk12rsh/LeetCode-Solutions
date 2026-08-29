@@ -4,12 +4,12 @@ public class Solution {
         int flowerCount = 0;
 
         for(int i = 0; i < bloomDay.Length; i++){
-            int perFlowerVal = (int) Math.Ceiling((double) bloomDay[i] / mid);
+            int daysNeeded = (int) Math.Ceiling((double) bloomDay[i] / mid);
 
-            if(perFlowerVal == 1 && flowerCount < k){
+            if(daysNeeded == 1 && flowerCount < k){
                 flowerCount++;
             }
-            else if(perFlowerVal > 1){
+            else if(daysNeeded > 1){
                 flowerCount = 0;
             }
 
