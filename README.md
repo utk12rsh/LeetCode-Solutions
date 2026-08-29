@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
