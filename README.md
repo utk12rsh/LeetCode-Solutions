@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
