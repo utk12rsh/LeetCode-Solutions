@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
