@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -95,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
