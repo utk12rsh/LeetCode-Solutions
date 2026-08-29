@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bracket Sequences
 |  |
