@@ -3,8 +3,8 @@ public class Solution {
         int totalSum = 0;
 
         for(int i = 0 ; i < nums.Length; i++){
-            int remainder = (int) Math.Ceiling((double) nums[i] / mid);
-            totalSum += remainder;
+            int dividedValue  = (int) Math.Ceiling((double) nums[i] / mid);
+            totalSum += dividedValue;
         }
 
         return totalSum <= threshold;
