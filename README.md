@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
