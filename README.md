@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
