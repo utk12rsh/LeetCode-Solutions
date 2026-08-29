@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
