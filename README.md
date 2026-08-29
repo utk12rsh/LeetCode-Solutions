@@ -159,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
