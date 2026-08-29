@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
