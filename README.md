@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
