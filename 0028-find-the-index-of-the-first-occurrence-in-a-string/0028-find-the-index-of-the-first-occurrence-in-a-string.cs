@@ -5,15 +5,21 @@ public class Solution {
         int i = 0;
 
         while(i+(nLength-1) < hLength){
-            StringBuilder sb = new StringBuilder();
-
-            for(int k = i; k <= i+(nLength-1); k++){
-                sb.Append(haystack[k]);
+            int s = i;
+            int t = 0;
+            while(s <= i+(nLength-1) && t < nLength){
+                if(haystack[s] != needle[t]){
+                    i++;
+                    break;
+                }
+                else{
+                    s++;
+                    t++;
+                }
             }
 
-            if(sb.ToString() == needle)
+            if(t == nLength)
                 return i;
-            i++;
         }
         return -1;
     }
