@@ -7,7 +7,7 @@ public class Solution {
         while(i+(nLength-1) < hLength){
             int s = i;
             int t = 0;
-            while(s <= i+(nLength-1) && t < nLength){
+            while(t < nLength){
                 if(haystack[s] != needle[t]){
                     i++;
                     break;
