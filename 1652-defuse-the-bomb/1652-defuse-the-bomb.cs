@@ -34,7 +34,7 @@ public class Solution {
             decryptedCode[0] = sum;
 
             for(int i = 1; i < n; i++){
-                sum -= code[((n+k)+(i-1)) % n];
+                sum -= code[((n + k) + (i - 1)) % n];
                 sum += code[(i - 1) % n];
 
                 decryptedCode[i] = sum;
