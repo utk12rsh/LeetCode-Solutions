@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Binary Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## Sorting
 |  |
 | ------- |
