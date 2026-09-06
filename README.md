@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## Sorting
 |  |
