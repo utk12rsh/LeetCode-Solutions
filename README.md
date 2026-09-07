@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
