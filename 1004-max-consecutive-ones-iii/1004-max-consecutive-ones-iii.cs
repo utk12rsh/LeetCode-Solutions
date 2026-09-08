@@ -8,14 +8,6 @@ public class Solution {
             // Observe if element is zero
             if(nums[right] == 0)
                 zeroCount++;
-            
-            // Our Window is valid, we should calculate the length now
-            if(zeroCount == k){
-                length = (right - left) + 1;
-
-                if(length > maxConsecutiveOnes)
-                    maxConsecutiveOnes = length;
-            }
 
             // If Window, Became Invalid, Then first we will make it valid and then calculate again as was done in case of valid
 
