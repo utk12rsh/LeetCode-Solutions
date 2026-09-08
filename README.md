@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2942-find-words-containing-character](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
