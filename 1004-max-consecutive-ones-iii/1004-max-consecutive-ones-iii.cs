@@ -9,7 +9,7 @@ public class Solution {
             if(nums[right] == 0)
                 zeroCount++;
 
-            // If Window, Became Invalid, Then first we will make it valid and then calculate again as was done in case of valid
+            // If Window, Became Invalid, Then first we will make it valid and then calculate.
 
             while(zeroCount > k){
                 if(nums[left] == 0)
