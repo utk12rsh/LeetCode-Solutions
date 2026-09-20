@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/utk12rsh/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
