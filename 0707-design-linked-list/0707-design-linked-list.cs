@@ -1,102 +1,141 @@
 public class MyLinkedList {
+    Node head = null;
 
-    Node head;
-    Node tail;
     public MyLinkedList() {
         
     }
     
     public int Get(int index) {
-        Node current = head;
-        int position = 0;
-        
-        while(current != null){
-            if(position == index){
-                return current.data;
-            }
-            current = current.next;
-            position++;
+        Node temp = head;
+        int count = 0;
+
+        while(count < index && temp != null && temp.next != null){
+            temp = temp.next;
+            count++;
         }
-        return -1;
+
+        if(temp == null || count != index)
+            return -1;
+
+        return temp.val;
     }
     
     public void AddAtHead(int val) {
-        Node newNode = new Node(val);
-        newNode.next = head;
-        head = newNode;
+        Node node = new Node(val);
+        
+        node.next = head;
+        if(head != null)
+            head.prev = node;
+
+        head = node;
     }
     
     public void AddAtTail(int val) {
-        Node newNode = new Node(val);
+        Node node = new Node(val);
 
         if(head == null){
-            head = newNode;
-            return;
+            head = node;
         }
-        
-        Node tail = head;
-        while(tail.next != null){
-            tail = tail.next;
+        else{
+            Node temp = head;
+
+            while(temp.next != null){
+                temp = temp.next;
+            }
+
+            temp.next = node;
+            node.prev = temp;
         }
-        tail.next = newNode;
     }
     
     public void AddAtIndex(int index, int val) {
-        if(index < 0)
+        int length = GetLinkedListLength();
+
+        if(index > length)
             return;
 
         if(index == 0){
             AddAtHead(val);
         }
+        else if(index == length){
+            AddAtTail(val);
+        }
         else{
-            Node newNode = new Node(val);
-            int position = 0;
-            Node current = head;
-            while(current != null){
-                if(position == index-1){
-                    newNode.next = current.next;
-                    current.next = newNode;
-                    return;
-                }
-                current = current.next;
-                position++;
+            Node temp = head;
+            int count = 0;
+
+            while(count < index - 1){
+                temp = temp.next;
+                count++;
             }
+
+            Node node = new Node(val);
+            node.next = temp.next;
+            temp.next.prev = node;
+            temp.next = node;
+            node.prev = temp;
         }
     }
     
     public void DeleteAtIndex(int index) {
-        if(index < 0 || head == null)
+        int length = GetLinkedListLength();
+
+        if(index < 0 || index > length - 1)
             return;
         
-        if(index == 0 && head != null){
-            Node nodeToBeDeleted = head;
+        if(index == 0){
             head = head.next;
-            nodeToBeDeleted.next = null;
-            return ;
-        }
 
-        Node current = head;
-        int position = 0;
+            if(head != null)
+                head.prev = null;
 
-        while(current != null){
-            if(position == index-1 && current.next != null){
-                Node nodeToBeDeleted = current.next;
-                current.next = current.next.next;
-                nodeToBeDeleted.next = null;
+            return;
+        }    
+        else if(index == length - 1){
+           Node tailTemp = head;
+
+            while(tailTemp.next.next != null){
+                tailTemp = tailTemp.next;
             }
-            current = current.next;
-            position++;
+
+            tailTemp.next = null;
+            return;
         }
+
+        Node temp = head;
+        int count = 0;
+
+        while(count < index - 1){
+            temp = temp.next;
+            count++;
+        }
+
+        temp.next.next.prev = temp;
+        temp.next = temp.next.next;
     }
-}
 
-public class Node{
-    public int data;
-    public Node next;
+    public int GetLinkedListLength(){
+        Node temp = head;
+        int length = 0;
 
-    public Node(int data){
-        this.data = data;
-        this.next = null;
+        while(temp != null){
+            length++;
+            temp = temp.next;
+        }
+
+        return length;
+    }
+
+    public class Node{
+        public int val;
+        public Node? prev;
+        public Node? next;
+
+        public Node(int val){
+            this.val = val;
+            this.prev = null;
+            this.next = null;
+        }
     }
 }
 
