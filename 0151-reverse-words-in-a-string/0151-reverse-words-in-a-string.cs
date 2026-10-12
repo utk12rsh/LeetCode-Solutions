@@ -1,33 +1,24 @@
 public class Solution {
     public string ReverseWords(string s) {
-        int j = s.Length - 1;
-        int i = j;
+        Stack<char> words = new Stack<char>();
         StringBuilder reversedWords = new StringBuilder();
 
-        while(i >= 0 && j >= 0){
-            StringBuilder word = new StringBuilder();
-
-            while(j >= 0 && s[j] == ' '){
-                j--;
+        for(int i = s.Length - 1; i >= 0; i--){
+            if(s[i] != ' '){
+                words.Push(s[i]);
             }
-
-            if(j < 0)
-                return reversedWords.ToString().Trim();
-        
-            i = j;
-            while(i >= 0 && s[i] != ' '){
-                i--;
+            else if (s[i] == ' ' && words.Count > 0){
+                while(words.Count > 0){
+                    reversedWords.Append(words.Pop());
+                }
+                reversedWords.Append(' ');
             }
-
-            for(int k = i + 1; k <= j; k++){
-                word.Append(s[k]);
-            }    
-            
-            j = i;
-
-            reversedWords.Append(word.ToString());
-            reversedWords.Append(' ');
         }
-        return reversedWords.ToString().Trim();   
+
+        while(words.Count > 0){
+            reversedWords.Append(words.Pop());
+        }
+
+        return reversedWords.ToString().Trim();
     }
 }
