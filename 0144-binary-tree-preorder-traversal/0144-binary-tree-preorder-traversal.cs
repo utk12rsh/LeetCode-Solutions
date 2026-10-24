@@ -29,8 +29,6 @@ public class Solution {
             if(curr.left != null)
                 treeNodes.Push(curr.left);
         }
-
         return ans;
-
     }
 }
