@@ -13,18 +13,29 @@
  */
 public class Solution {
     public IList<int> PostorderTraversal(TreeNode root) {
+        if(root == null)
+            return new List<int>();
+        
         List<int> ans = new List<int>();
+        var s1 = new Stack<TreeNode>();
+        var s2 = new Stack<TreeNode>();
+        s1.Push(root);
+        
+        TreeNode curr = null;
+        while(s1.Count > 0){
+            curr = s1.Pop();
+            s2.Push(curr);
+            if(curr.left != null)
+                s1.Push(curr.left);
+            if(curr.right != null)
+                s1.Push(curr.right);
+        }
 
-        PostorderTraversal(root, ans);
+        while(s2.Count > 0){
+            curr = s2.Pop();
+            ans.Add(curr.val);
+        }
+
         return ans;
-    }
-
-    public void PostorderTraversal(TreeNode curr, List<int> ans){
-        if(curr == null)
-            return;
-
-        PostorderTraversal(curr.left, ans);
-        PostorderTraversal(curr.right, ans);
-        ans.Add(curr.val);
     }
 }
