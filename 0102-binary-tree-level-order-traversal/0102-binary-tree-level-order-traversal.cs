@@ -18,29 +18,26 @@ public class Solution {
         if(root == null)
             return ans;
 
-        var q1 = new Queue<TreeNode>();
-        var q2 = new Queue<TreeNode>();
+        var queue = new Queue<TreeNode>();
+        queue.Enqueue(root);
 
-        q1.Enqueue(root);
-
-        while(q1.Count > 0){
+        while(queue.Count > 0){
+            int currLevelCount = queue.Count;
+            int processedNodeCount = 0;
             var currLevel = new List<int>();
 
-            while(q1.Count > 0){
-                var curr = q1.Dequeue();
+            while(processedNodeCount < currLevelCount){
+                var curr = queue.Dequeue();
                 currLevel.Add(curr.val);
                 if(curr.left != null)
-                    q2.Enqueue(curr.left);
+                    queue.Enqueue(curr.left);
                 if(curr.right != null)
-                    q2.Enqueue(curr.right);
+                    queue.Enqueue(curr.right);
+                processedNodeCount++;
             }
-
             ans.Add(currLevel);
-            
-            var temp = q1;
-            q1 = q2;
-            q2 = temp;
         }
+
         return ans;
     }
 }
