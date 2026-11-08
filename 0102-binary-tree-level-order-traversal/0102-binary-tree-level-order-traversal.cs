@@ -35,8 +35,7 @@ public class Solution {
                     q2.Enqueue(curr.right);
             }
 
-            if(currLevel != null)
-                ans.Add(currLevel);
+            ans.Add(currLevel);
             
             var temp = q1;
             q1 = q2;
