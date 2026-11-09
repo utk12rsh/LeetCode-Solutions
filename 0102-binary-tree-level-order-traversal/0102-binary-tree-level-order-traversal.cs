@@ -14,30 +14,20 @@
 public class Solution {
     public IList<IList<int>> LevelOrder(TreeNode root) {
         var ans = new List<IList<int>>();
-
-        if(root == null)
-            return ans;
-
-        var queue = new Queue<TreeNode>();
-        queue.Enqueue(root);
-
-        while(queue.Count > 0){
-            int currLevelCount = queue.Count;
-            int processedNodeCount = 0;
-            var currLevel = new List<int>();
-
-            while(processedNodeCount < currLevelCount){
-                var curr = queue.Dequeue();
-                currLevel.Add(curr.val);
-                if(curr.left != null)
-                    queue.Enqueue(curr.left);
-                if(curr.right != null)
-                    queue.Enqueue(curr.right);
-                processedNodeCount++;
-            }
-            ans.Add(currLevel);
-        }
-
+        LevelOrder(root, 0, ans);
         return ans;
+    }
+
+    public void LevelOrder(TreeNode curr, int level, List<IList<int>> ans){
+        if(curr == null)
+            return;
+        
+        if(ans.Count <= level)
+            ans.Add(new List<int>());
+
+        ans[level].Add(curr.val);
+
+        LevelOrder(curr.left, level + 1, ans);
+        LevelOrder(curr.right, level + 1, ans);
     }
 }
